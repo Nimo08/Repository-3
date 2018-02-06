@@ -329,3 +329,19 @@ echo "Wednesday>> README.md
 git init
 git status
 git commit -a
+git init
+git status
+git clonehttps://github.com/Nimo08/Tuesday.git
+git add .
+git commit -m"this is a commit"
+git push -u origin master
+git status
+git add .
+clear
+git init
+git remote add origin git remote add origin https://github.com/Nimo08/Wednesday.git
+git push -u origin master
+cd ..
+git init
+cd ..
+git add .
