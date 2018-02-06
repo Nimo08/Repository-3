@@ -1,0 +1,185 @@
+2018-02-05T17:45:18.725Z - info: SELECT_CHANNEL : "C077KNK28"
+2018-02-05T17:45:18.740Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#4D394B",
+    "menu_bg": "#3E313C",
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#3E313C",
+    "text_color": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:19.097Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:19.120Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:19.189Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:19.341Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:20.405Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:20.599Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T17:45:22.788Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2018-02-05T17:45:29.298Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2018-02-05T17:47:21.430Z - info: Unloading spellchecker
+2018-02-05T17:55:42.842Z - info: Window is unloading, winssb is no longer accessible
+2018-02-05T17:57:09.761Z - info: Failed to get messages from webapp: Cannot read property 'id' of null
+2018-02-05T17:59:29.512Z - info: Attempting detection, string length: 11
+2018-02-05T17:59:30.914Z - info: Attempting detection, string length: 14
+2018-02-05T17:59:32.198Z - info: Attempting detection, string length: 15
+2018-02-05T17:59:32.960Z - info: Attempting detection, string length: 16
+2018-02-05T17:59:33.908Z - info: Attempting detection, string length: 20
+2018-02-05T17:59:33.977Z - info: Auto-detected language as en
+2018-02-05T17:59:34.036Z - info: Raw Locale list: ["C","C.UTF-8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IL","en_IL.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","om_KE.utf8","POSIX",""]
+2018-02-05T17:59:34.036Z - info: Filtered Locale list: ["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IL","en_IL","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","om_KE"]
+2018-02-05T17:59:34.036Z - info: Counts: {"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IL","en_IL","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"om":["om_KE"]}
+2018-02-05T17:59:34.038Z - info: Setting om
+2018-02-05T17:59:34.038Z - info: Result: {"om":"om-KE","en":"en-US"}
+2018-02-05T17:59:34.040Z - info: Loading dictionary for language en-US
+2018-02-05T17:59:34.041Z - info: Returning local copy: /home/nimo/.config/Slack/dictionaries/en-US.bdic
+2018-02-05T17:59:34.044Z - info: Setting current spellchecker to en-US, requested language was en-US
+2018-02-05T17:59:34.044Z - info: Creating node-spellchecker instance
+2018-02-05T17:59:34.070Z - info: Actually installing spell check provider to Electron
+2018-02-05T17:59:34.071Z - info: New Language is en-US
+2018-02-05T17:59:43.137Z - info: Window is unloading, winssb is no longer accessible
+2018-02-05T17:59:45.894Z - info: Window is unloading, winssb is no longer accessible
+2018-02-05T17:59:47.795Z - info: ADD_NEW_TEAM : {
+  "id": "U94PZ37KR",
+  "name": "nimomohamed800",
+  "team_id": "T077KKCG6",
+  "team_name": "Moringa School",
+  "team_url": "https://moringaschool.slack.com/"
+}
+2018-02-05T17:59:47.799Z - info: SET_LOGIN_DIALOG 
+2018-02-05T17:59:47.848Z - info: REFRESH_TEAM : {
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:00:09.659Z - info: SELECT_CHANNEL : "C077KNK28"
+2018-02-05T18:00:10.640Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#4D394B",
+    "menu_bg": "#3E313C",
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#3E313C",
+    "text_color": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:00:11.100Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:00:11.322Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:00:12.831Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:00:13.684Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2018-02-05T18:00:21.241Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2018-02-05T18:39:15.575Z - info: Unloading spellchecker
+2018-02-05T18:40:36.441Z - info: Unloading spellchecker
+2018-02-05T18:44:04.839Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:44:04.973Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:44:07.057Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T19:03:06.790Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-05T19:03:06.904Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-05T19:03:09.296Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}

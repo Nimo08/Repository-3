@@ -1,0 +1,302 @@
+2018-02-05T17:44:23.600Z - info: Creating local storage instance at path: /home/nimo/.config/Slack/local-settings.json
+2018-02-05T17:44:23.602Z - error: Couldn't load /home/nimo/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/nimo/.config/Slack/local-settings.json'
+2018-02-05T17:44:24.934Z - info: Creating local storage instance at path: /home/nimo/.config/Slack/redux-state.json
+2018-02-05T17:44:24.951Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": null,
+      "teamsByIndex": [],
+      "windowSettings": {
+        "position": [
+          327,
+          101
+        ],
+        "size": [
+          779,
+          593
+        ]
+      }
+    },
+    "settings": {
+      "appVersion": "2.2.1",
+      "versionName": "Tempest, Teamwork, Triumph (At Sea)",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 4,
+        "minor": 13,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "webappSrcPath": null,
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "openDevToolsOnStart": false,
+      "pretendNotReallyWindows10": false,
+      "releaseChannel": "prod",
+      "isMacAppStore": false,
+      "isWindowsStore": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": true,
+      "reportIssueOnStartup": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true,
+        "macgap": false
+      },
+      "hasCleanedLogFilesForSpellcheckBug": true,
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/nimo/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {}
+  }
+}
+2018-02-05T17:44:24.965Z - info: No state in keychain, starting from scratch
+2018-02-05T17:44:24.967Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2018-02-05T17:44:25.138Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.2.1",
+  "versionName": "Tempest, Teamwork, Triumph (At Sea)",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 13,
+    "build": 0
+  },
+  "isTitleBarHidden": false
+}
+2018-02-05T17:44:25.454Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2018-02-05T17:44:25.464Z - info: Loading windowMetrics: {"position":[327,101],"size":[779,593]}
+2018-02-05T17:44:25.618Z - info: Welcome to Slack 2.2.1 x64
+2018-02-05T17:44:25.618Z - info: App load time: 2049ms
+2018-02-05T17:44:28.606Z - info: Main window finished load. Launched on login: false
+2018-02-05T17:45:08.982Z - info: Saving store due to ADD_NEW_TEAM
+2018-02-05T17:59:47.805Z - info: Saving store due to ADD_NEW_TEAM
+2018-02-05T17:59:47.853Z - info: REFRESH_TEAM : {
+  "teamId": "T077KKCG6"
+}
+2018-02-05T18:14:25.488Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-05T18:40:36.433Z - info: Attempted to close the window, hiding due to run from tray
+2018-02-05T19:05:11.398Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    101
+  ],
+  "isMaximized": false
+}
+2018-02-05T19:30:19.782Z - info: Allowing window close because user chose to quit
+2018-02-06T06:53:06.584Z - info: Creating local storage instance at path: /home/nimo/.config/Slack/local-settings.json
+2018-02-06T06:53:06.586Z - error: Couldn't load /home/nimo/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/nimo/.config/Slack/local-settings.json'
+2018-02-06T06:53:07.498Z - info: Creating local storage instance at path: /home/nimo/.config/Slack/redux-state.json
+2018-02-06T06:53:07.510Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T077KKCG6",
+      "teamsByIndex": [
+        "T077KKCG6"
+      ],
+      "windowSettings": {
+        "size": [
+          779,
+          593
+        ],
+        "position": [
+          327,
+          101
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.2.1",
+      "versionName": "Tempest, Teamwork, Triumph (At Sea)",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 4,
+        "minor": 13,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "webappSrcPath": null,
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "openDevToolsOnStart": false,
+      "pretendNotReallyWindows10": false,
+      "releaseChannel": "prod",
+      "isMacAppStore": false,
+      "isWindowsStore": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": true,
+      "reportIssueOnStartup": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true,
+        "macgap": false
+      },
+      "hasCleanedLogFilesForSpellcheckBug": true,
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/nimo/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T077KKCG6": {
+        "name": "nimomohamed800",
+        "id": "U94PZ37KR",
+        "team_id": "T077KKCG6",
+        "team_name": "Moringa School",
+        "team_url": "https://moringaschool.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "MS",
+        "user_id": "U94PZ37KR",
+        "theme": {
+          "column_bg": "#4D394B",
+          "menu_bg": "#3E313C",
+          "active_item": "#4C9689",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#3E313C",
+          "text_color": "#FFFFFF",
+          "active_presence": "#38978D",
+          "badge": "#EB4D5C"
+        },
+        "icons": {
+          "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+          "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+          "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+          "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+          "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+          "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+          "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+          "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+        }
+      }
+    }
+  }
+}
+2018-02-06T06:53:07.516Z - info: No state in keychain, starting from scratch
+2018-02-06T06:53:07.518Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2018-02-06T06:53:07.647Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.2.1",
+  "versionName": "Tempest, Teamwork, Triumph (At Sea)",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 13,
+    "build": 0
+  },
+  "isTitleBarHidden": false
+}
+2018-02-06T06:53:07.941Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2018-02-06T06:53:07.949Z - info: Loading windowMetrics: {"size":[779,593],"position":[327,101],"isMaximized":false}
+2018-02-06T06:53:08.109Z - info: Welcome to Slack 2.2.1 x64
+2018-02-06T06:53:08.110Z - info: App load time: 1550ms
+2018-02-06T06:53:11.145Z - info: Main window finished load. Launched on login: false
+2018-02-06T07:23:08.008Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T07:53:08.123Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T08:23:08.425Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T08:53:08.644Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T09:23:08.774Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}

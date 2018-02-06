@@ -1,0 +1,17 @@
+2018-02-05T14:35:14.444Z - info: No teams found to migrate
+2018-02-05T14:35:14.448Z - info: Found legacy settings: {}
+2018-02-05T14:35:14.451Z - info: LOAD_LEGACY : {
+  "updated": {
+    "settings": {
+      "hasMigratedData": {
+        "renderer": true
+      }
+    }
+  }
+}
+2018-02-05T14:35:14.705Z - info: LOAD_TEAMS : []
+2018-02-05T14:35:14.730Z - info: SET_NETWORK_STATUS : "online"
+2018-02-05T14:35:14.763Z - info: Checking network connection to Slack...
+2018-02-05T14:35:17.234Z - info: Checking network connection to Slack...
+2018-02-05T14:41:04.572Z - info: Checking network connection to Slack...
+2018-02-05T14:41:07.072Z - info: Checking network connection to Slack...
