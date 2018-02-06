@@ -315,3 +315,17 @@ git init
 git status
 git add .
 git commit -m"commiting
+git init
+git status
+git add .
+git commit -m"commit four"
+git push -u origin master
+git push https://github.com/Nimo08/Wednesday
+git clone https://github.com/Nimo08/Wednesday 
+echo "Wednesday>> README.md
+
+
+
+git init
+git status
+git commit -a
