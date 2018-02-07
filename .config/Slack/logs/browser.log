@@ -322,3 +322,26 @@
   ],
   "isMaximized": false
 }
+2018-02-06T11:03:10.087Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T11:33:10.269Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    779,
+    593
+  ],
+  "position": [
+    327,
+    131
+  ],
+  "isMaximized": false
+}
+2018-02-06T11:36:31.790Z - info: Allowing window close because user chose to quit

@@ -60,12 +60,16 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/nimo/Desktop/tuesday1/folder/README.md" added="2018-02-06T08:29:29Z" modified="2018-02-06T08:29:29Z" visited="2018-02-06T08:29:29Z">
+  <bookmark href="file:///home/nimo/Desktop/tuesday1/folder/README.md" added="2018-02-06T08:29:29Z" modified="2018-02-07T13:56:37Z" visited="2018-02-06T08:29:29Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-02-06T08:29:29Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-02-07T13:56:37Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -156,6 +160,16 @@
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-02-06T10:08:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nimo/Desktop/Wednesday/commit%207" added="2018-02-07T15:09:45Z" modified="2018-02-07T15:09:45Z" visited="2018-02-07T15:09:45.468760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2018-02-07T15:09:45Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

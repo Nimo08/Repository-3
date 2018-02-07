@@ -10,7 +10,7 @@
 
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1517904960);
 user_pref("app.update.lastUpdateTime.blocklist-background-update-timer", 1517905080);
-user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1517911006);
+user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1517915207);
 user_pref("app.update.lastUpdateTime.experiments-update-timer", 1517904304);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1517905320);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1517900086);
@@ -39,10 +39,10 @@ user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"boo
 user_pref("browser.pagethumbnails.storage_version", 3);
 user_pref("browser.places.smartBookmarksVersion", 8);
 user_pref("browser.rights.3.shown", true);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1517913318639");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1517915112639");
-user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1517910954541");
-user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1517914554541");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1517916921481");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1517918702481");
+user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1517915169531");
+user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1517918769531");
 user_pref("browser.search.countryCode", "KE");
 user_pref("browser.search.region", "KE");
 user_pref("browser.sessionstore.upgradeBackup.latestBuildID", "20180104101725");

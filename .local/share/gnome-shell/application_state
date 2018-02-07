@@ -2,18 +2,18 @@
 <application-state>
   <context id="">
     <application id="gnome-control-center.desktop" open-window-count="0" score="0.00311279296875" last-seen="1517818425"/>
-    <application id="yelp.desktop" open-window-count="0" score="0.00048828125" last-seen="1517818463"/>
-    <application id="atom.desktop" open-window-count="1" score="1140" last-seen="1517913556"/>
-    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1517907143"/>
-    <application id="slack.desktop" open-window-count="1" score="380" last-seen="1517911367"/>
-    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="1517913481"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="219.000244140625" last-seen="1517913487"/>
-    <application id="firefox.desktop" open-window-count="1" score="19282.666137695312" last-seen="1517914213"/>
+    <application id="yelp.desktop" open-window-count="0" score="0.00048828125" last-seen="1517939574"/>
+    <application id="firefox.desktop" open-window-count="0" score="19295.666137695312" last-seen="1517915229"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1518011777"/>
+    <application id="atom.desktop" open-window-count="1" score="1272" last-seen="1518016260"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="1518011797"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="225.000244140625" last-seen="1518011804"/>
     <application id="update-manager.desktop" open-window-count="0" score="30" last-seen="1517830450"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="838" last-seen="1517914158"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="78" last-seen="1517913484"/>
+    <application id="slack.desktop" open-window-count="0" score="387" last-seen="1517916268"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="4312" last-seen="1518016633"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="78" last-seen="1518011817"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2304.234375" last-seen="1517914229"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="2689.234375" last-seen="1518016430"/>
     <application id="apport-gtk.desktop" open-window-count="0" score="106" last-seen="1517899411"/>
     <application id="evince.desktop" open-window-count="0" score="6" last-seen="1517857607"/>
     <application id="org.gnome.Software.desktop" open-window-count="0" score="76.00030517578125" last-seen="1517912000"/>

@@ -345,3 +345,99 @@ cd ..
 git init
 cd ..
 git add .
+git init
+git add .
+git status
+git commit -m"message"
+git push -u https://github.com/Nimo08/Wednesday.git
+cd README
+mkdir README
+cd README
+cd ..
+mkdir README
+T
+touch README.md
+atom .
+cd Documents
+mkdir README
+cd README
+touch README.md
+ls
+atom .
+ls
+README/
+ls
+Desktop/
+l
+i
+clear
+Desktop/
+ls
+Wednesday/
+l
+README/
+ls
+examples
+Desktop/
+echo "# Wednesday" >> README.md
+git init
+git add README.md
+git remote add origin https://github.com/Nimo08/eighteen.git
+git push -u origin master
+git status
+git commit -m"Thursday"
+git  status
+git init
+git status
+git remote add origin https://github.com/Nimo08/Thursday.git
+git push -u origin master
+git commit
+echo "# Thursday" >> README.md
+git init
+git add README.md
+git commit -m"sixth commit"
+git remote add origin https://github.com/Nimo08/Thursday.git
+git push -u origin master
+git status
+git init
+git remote add origin https://github.com/Nimo08/Yvette.git
+git push -u origin master
+echo "# Thursday" README.md
+echo "# Thursday">> README.md
+git init
+git add README.md
+cd ..
+Desktop
+ls
+cd Desktop
+cd Wednesday
+clear
+cd ..
+cd Desktop
+ls
+echo "# Wednesday" >> commit 7
+git init
+git add commit 7
+git commit -m"first commit"
+git status
+echo "# eighteen" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git init
+git ad .
+git add .
+git commit -m"Change name of Thursday to Friday
+ls
+Wednesday/
+l
+commit
+Documents/
+l
+Wednesday/
+l
+git iniy
+git init
+git status
+git add .
+git commit -a

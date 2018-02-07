@@ -1,3 +1,6 @@
-2018/02/05-22:19:35.978 22659 Reusing MANIFEST /home/nimo/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2018/02/05-22:19:35.978 22659 Recovering log #3
-2018/02/05-22:19:35.979 22659 Reusing old log /home/nimo/.config/google-chrome/Default/Session Storage/000003.log 
+2018/02/07-13:51:55.408 1628 Reusing MANIFEST /home/nimo/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/02/07-13:51:55.409 1628 Recovering log #3
+2018/02/07-13:51:55.485 1628 Reusing old log /home/nimo/.config/google-chrome/Default/Session Storage/000003.log 
+2018/02/07-13:53:58.420 1904 Level-0 table #5: started
+2018/02/07-13:53:58.453 1904 Level-0 table #5: 13465 bytes OK
+2018/02/07-13:53:58.478 1904 Delete type=0 #3

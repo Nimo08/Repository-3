@@ -381,3 +381,104 @@
   "showBullet": true,
   "teamId": "T077KKCG6"
 }
+2018-02-06T10:57:31.782Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:03:51.458Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:03:51.563Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:03:53.145Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:05:58.449Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:05:58.555Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:06:00.934Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:09:37.101Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:13:36.118Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:17:23.316Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:17:23.318Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:21:47.737Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:23:57.158Z - info: SELECT_CHANNEL : "G93NB9SVA"
+2018-02-06T11:24:01.163Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2018-02-06T11:24:17.614Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:24:17.618Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T077KKCG6"
+}
+2018-02-06T11:24:28.798Z - info: Unloading spellchecker
